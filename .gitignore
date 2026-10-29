@@ -1,0 +1,21 @@
+# Backend (Java)
+backend/build/
+backend/.gradle/
+*.jar
+*.class
+
+# Mobile (Flutter)
+mobile-app/.dart_tool/
+mobile-app/build/
+mobile-app/.packages
+
+# IDE
+.idea/
+.vscode/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
